@@ -25,15 +25,15 @@ margin-bottom: 0px;
 .signup-panel i {
   font-size: 30px;
   line-height: 50px;
-  color: #999;
+  color: #000;
 }
 .signup-panel form input, .signup-panel form span {
   height: 50px;
 }
 .signup-panel .welcome {
   font-size: 26px;
-  text-align: center;
-  margin-left: 0;
+  text-align  margin-left: 0;
+: center;
 }
 .signup-panel p {
   font-size: 13px;
@@ -62,7 +62,7 @@ h2 {
 }
 
 .quote {
-  background: #ebf3f5;
+  background: #fff;
   padding: 15px 20px 5px 15px;
   border-radius: 5px;
   margin-bottom: 30px;
@@ -73,35 +73,35 @@ h2 {
   height: 0px;
   border-style: solid;
   border-width: 20px 18px 0 18px;
-  border-color: #ebf3f5 transparent transparent transparent;
+  border-color: #fff transparent transparent transparent;
   position: relative;
   top: 37px;
   left: 20px;
 }
 
-.student {
+.user {
   margin-left: 25px;
   margin-bottom: 80px;
 }
-.student .photo {
+.user .photo {
   background-color: #ccc;
   border-radius: 100px;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   float: left;
   margin-right: 10px;
 }
-.student p {
+.user p {
   position: relative;
   top: 5px;
   text-transform: uppercase;
 }
-.student p:nth-child(2) {
+.user p:nth-child(2) {
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 0;
 }
-.student p:nth-child(3) {
+.user p:nth-child(3) {
   font-size: 14px;
   color: #777;
 }
